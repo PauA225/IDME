@@ -18,7 +18,7 @@ a = float(input("Teclea el coeficiente del termino de segundo grado (a): "))
 b = float(input("Teclea el coeficiente del termino de primer grado (b): "))
 c = float(input("Teclea el termino independiente (c): "))
 
-print(f"Ecuacion de segundo grado: {a}x^2+{b}x+{c} = 0")
+print(f"Ecuacion de segundo grado: {a}x^2+{b}x+{c}= 0")
 
 x1 = (-b+sqrt(b**2-4*a*c)) / (2*a)
 x2 = (-b-sqrt(b**2-4*a*c)) / (2*a)

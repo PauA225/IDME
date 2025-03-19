@@ -7,9 +7,6 @@ from os import system
 # Declaracion de Variables.
 
 
-# Definicion de funciones.
-
-
 
 # Programa principal.
 

@@ -29,3 +29,4 @@ if i > numVeces and palabra[i-1] == palabra[-i]: #Ha salido del bucle con todas 
    print(f"La palabra {palabra} ES un palindromo.")
 else:
     print(f"La palabra {palabra} NO ES un palindromo.")
+    

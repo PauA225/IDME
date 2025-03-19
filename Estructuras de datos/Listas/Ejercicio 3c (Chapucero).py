@@ -7,9 +7,7 @@ from os import system
 # Declaracion de Variables.
 
 matriz = [[0, 0],[0, 0]] # La lista que contendra los elementos de la matriz.
-
 numero = 0 # Contiene el valor de las variables.
-
 determinante = 0 # Contiene el valor de la solucion.
 
 # Programa principal.
